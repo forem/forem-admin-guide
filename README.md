@@ -1,15 +1,6 @@
----
-description: Table of Contents
----
+# About Forem Admin Guide
 
-# Forem Admin Guide
+This guide is for anyone creating a Forem. Please direct any questions not answered in this guide to our our meta forem, [forem.dev](https://forem.dev/)!
 
-## Table of Contents Style 1
-
-## Table of contents style 2
-
-**Configuration**
-
-* [Get started](configuration/get-started.md)
-* [All Site Configuration](configuration/all-site-configuration/)
+If you see anything missing here, please feel free to submit a PR to help your fellow admins :\)
 

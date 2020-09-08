@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Forem Admin Guide](README.md)
-* [README](readme.md)
+* [About Forem Admin Guide](README.md)
 
 ## Configuration
 
@@ -16,11 +15,6 @@
   * [Email Digest](configuration/all-site-configuration/email-digest.md)
   * [Jobs](configuration/all-site-configuration/jobs.md)
   * [Google Analytics](configuration/all-site-configuration/google-analytics.md)
-
-## FAQ <a id="faq-1"></a>
-
-* [Site Config](faq-1/site-config.md)
-* [Site Mechanics](faq-1/site-mechanics.md)
 
 ## Community Tips
 

@@ -21,4 +21,5 @@
 * [Community Growth](community-tips/community-growth.md)
 * [Monetization](community-tips/monetization.md)
 * [Moderation](community-tips/moderation.md)
+* [Organization Pages](community-tips/organization-pages.md)
 

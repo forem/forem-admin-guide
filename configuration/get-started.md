@@ -10,13 +10,18 @@ Name of community \(i.e. DEV\). Your community name will appear in places like t
 
 ### **Community description**
 
+This is used in meta tags for SEO, onboarding messaging, and the site footer.
+
 ### **Community action**
 
-This is the phrase that follows the word “Happy” in certain emails. For instance, ours is “coding” for “Happy coding.”
+This is the action that describes your community. For example, DEV's action is "Coding". Ways we use it:
+
+* Automated email signature \(i.e. Happy Coding!\)
+* Denoting your experience level \(i.e. Coding Experience Level\)
 
 ### **Tagline**
 
-The community tagline is displayed on sign-up modals and is important for SEO. For instance, our tagline is "We're a place where coders share, stay up-to-date, and grow their careers." This is different than the description, which is typically a bit longer.
+The community tagline is displayed on sign-up modals and authentication header. For instance, our tagline is "We're a place where coders share, stay up-to-date, and grow their careers." This is different than the description, which is typically a bit longer.
 
 ### **Main social image**
 

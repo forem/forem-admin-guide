@@ -59,5 +59,5 @@ These are the suggested tags to follow as part of new user onboarding. Be sure t
 
 The default users that appear as suggested users to follow during new user onboarding will be recently-active authors and commenters. The suggested usernames you share here serve as a fall-back when there are not enough users to suggest \(such as when you first set up your Forem\).
 
- Each username should be comma separated \(i.e. jess, peter, ben\).
+Each username should be comma separated \(i.e. jess, peter, ben\).
 

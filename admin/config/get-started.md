@@ -1,7 +1,3 @@
----
-description: A guide to the "Get Started" section of /admin/config.
----
-
 # Get Started
 
 ### **Community name**

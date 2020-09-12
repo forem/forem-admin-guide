@@ -15,9 +15,9 @@ Campaign features include:
 
 You can choose to enable each feature individually or at the same time.
 
-![1\) Large banner on home page](../../.gitbook/assets/image-202020-08-13-20at-201.19.09-20pm%20%281%29.png)
+![1\) Large banner on home page](../../../.gitbook/assets/image-202020-08-13-20at-201.19.09-20pm%20%281%29.png)
 
-![2\) Highlighted Campaign Articles 3\) Campaign Sidebar Image](../../.gitbook/assets/screen-shot-2020-09-12-at-1.44.30-pm.png)
+![2\) Highlighted Campaign Articles 3\) Campaign Sidebar Image](../../../.gitbook/assets/screen-shot-2020-09-12-at-1.44.30-pm.png)
 
 ### Campaign Hero HTML Variant Name
 

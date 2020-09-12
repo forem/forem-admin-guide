@@ -1,16 +1,12 @@
 # Get Started
 
-{% hint style="info" %}
-You can quickly generate a URL image link by visiting /new and uploading a photo.
-{% endhint %}
-
 ### **Community name**
 
-Name of community \(i.e. DEV\). Your community name will appear in places like the code of conduct, terms of service, and privacy policy. 
+Name of community \(i.e. DEV\). Your community name will appear in places like the code of conduct, browser tabs, terms of service, and privacy policy. 
 
 ### **Community description**
 
-This is used in meta tags for SEO, onboarding messaging, and the site footer.
+This description is used in meta tags for SEO, onboarding messaging, and the site footer.
 
 ### **Community action**
 
@@ -36,9 +32,17 @@ Social images have a 2:1 aspect ratio, but the optimal specs are:
 * Recommended size: 1200x630
 * Aspect ratio: 1.91:1
 
+{% hint style="info" %}
+You can quickly generate a URL image link by visiting /new and uploading a photo.
+{% endhint %}
+
 ### **Logo png**
 
-Your logo will appear on the header, footer, and new user onboarding slides.
+This is for the square logo that appears on all new user onboarding slides.
+
+{% hint style="info" %}
+You can quickly generate a URL image link by visiting /new and uploading a photo.
+{% endhint %}
 
 ### **Mascot user**
 
@@ -50,11 +54,21 @@ You can use your mascot in instances where you want to make a moderation decisio
 
 Please provide a URL to the image of your mascot.
 
+{% hint style="info" %}
+You can quickly generate a URL image link by visiting /new and uploading a photo.
+{% endhint %}
+
 ### **Meta keywords \(default\)**
+
+Meta keywords are a specific type of meta tag that help tell search engines what the topic of the page is. The keywords you list here will be the default meta keywords for all pages on your site.
 
 ### **Meta keywords \(article\)**
 
+The keywords added here will apply to all articles \(posts\) on your site. Adding these keywords will override your default meta keywords.
+
 ### **Meta keywords \(tag\)**
+
+The keywords added here will apply to all tag pages \(i.e. dev.to/t/discuss\) on your site. Adding these keywords will override your default meta keywords.
 
 ### **Suggested tags**
 

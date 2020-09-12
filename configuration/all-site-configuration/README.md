@@ -1,11 +1,5 @@
 # All Site Configuration
 
-### \*\*\*\*
-
-
-
-\*\*\*\*
-
 ### **Campaign**
 
 ### **Community Content**

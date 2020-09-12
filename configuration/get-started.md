@@ -42,7 +42,7 @@ You can quickly generate a URL image link by visiting /new and uploading a photo
 
 ### **Logo png**
 
-This is for the square logo that appears on all new user onboarding slides.
+This is for the square logo that appears on all new user onboarding slides. To update the navbar and footer logo, [please upload an SVG here](all-site-configuration/images.md#logo-svg).
 
 {% hint style="info" %}
 You can quickly generate a URL image link by visiting /new and uploading a photo.

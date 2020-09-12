@@ -26,3 +26,5 @@ To define the price of a single credit, please include the USD cent value of one
 * Large: 300 cents per credit
 * Extra Large: 250 cents per credit
 
+![Credit pricing displayed on https://yourpage/credits/purchase.](../../.gitbook/assets/screen-shot-2020-09-12-at-1.50.26-pm.png)
+

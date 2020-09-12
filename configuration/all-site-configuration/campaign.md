@@ -4,16 +4,20 @@ description: How to go into "campaign mode" on the homepage.
 
 # Campaign
 
-### About
+### Overview
 
 Campaigns are a way to highlight information to your audience. You can use campaigns in whatever way suits your needs, but we toggle it during community celebrations or call-to-actions.
 
 Campaign features include:
 
-* Large banner on home page
-* Highlighted articles under a certain tag\(s\) on home page righthand sidebar
+1. Large banner on home page
+2. Highlighted articles under a certain tag\(s\) on home page righthand sidebar
 
 You can choose to enable each feature individually or at the same time.
+
+![1\) Large banner on home page](../../.gitbook/assets/image-202020-08-13-20at-201.19.09-20pm%20%281%29.png)
+
+![2\) Highlighted Campaign Articles 3\) Campaign Sidebar Image](../../.gitbook/assets/screen-shot-2020-09-12-at-1.44.30-pm.png)
 
 ### Campaign Hero HTML Variant Name
 

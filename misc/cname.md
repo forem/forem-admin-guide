@@ -19,5 +19,9 @@ Every DNS provider is a bit different, but you'll be setting the Type, Value, Ho
 * **TTL** is the "time to live"
   * Feel free to leave the default value \(typically 1 hour\)
 
+### Re: APEX domains
+
 Currently, we are not able to support APEX domains, such as `https://your-forem.com`.  If this is a hard requirement and you're not able to use `https://www.your-forem.com` or an equivalent, please contact the Forem account management team.
+
+For Cloudflare users, we recommend forwarding APEX domain traffic to the `www` version.  Here are instructions on [how to configure this redirect at Cloudflare](https://community.cloudflare.com/t/redirect-example-com-to-www-example-com/78348).
 

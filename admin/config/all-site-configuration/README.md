@@ -16,6 +16,10 @@
 
 ### **Images**
 
+Logo SVG
+
+* We recommend an SVG with a height of 50px
+
 ### **Mascot**
 
 ### **Meta Keywords**

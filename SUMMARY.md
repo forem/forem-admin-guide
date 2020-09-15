@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About Forem Admin Guide](README.md)
+* [Getting Started](getting-started.md)
 
 ## Admin
 
@@ -45,4 +46,8 @@
 * [Monetization](community-tips/monetization.md)
 * [Moderation](community-tips/moderation.md)
 * [Organization Pages](community-tips/organization-pages.md)
+
+## Misc
+
+* [CNAME](misc/cname.md)
 

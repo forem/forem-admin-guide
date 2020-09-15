@@ -50,4 +50,5 @@
 ## Misc
 
 * [CNAME](misc/cname.md)
+* [Inviting a New User](misc/inviting-a-new-user.md)
 

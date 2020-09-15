@@ -37,7 +37,7 @@ You can manually add a note by filling out the text field and clicking 'submit n
 
 #### Recent Emails
 
-
+See also, [inviting a user](../../misc/inviting-a-new-user.md).
 
 
 

@@ -10,7 +10,7 @@ Upon navigating to that page, you'll have the opportunity to create the first su
 
 As a superadmin, you're able to start configuring your forem.  Most of the documentation is available [here](admin/config/).
 
-Additionally, you may be interesting in [inviting a new user](misc/inviting-a-new-user.md) and [elevating their role](admin/users/user-roles.md).
+Additionally, you may be interesting in [inviting a new user](admin/users/inviting-a-new-user.md) and [elevating their role](admin/users/user-roles.md).
 
 ### Launching your Forem
 

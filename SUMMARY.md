@@ -39,6 +39,7 @@
 * [Users](admin/users/README.md)
   * [Manage User](admin/users/manage-user.md)
   * [User Roles](admin/users/user-roles.md)
+  * [Invite a New User](admin/users/inviting-a-new-user.md)
 
 ## Community Tips
 
@@ -50,5 +51,4 @@
 ## Misc
 
 * [CNAME](misc/cname.md)
-* [Inviting a New User](misc/inviting-a-new-user.md)
 

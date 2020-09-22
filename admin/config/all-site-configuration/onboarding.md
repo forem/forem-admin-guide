@@ -1,18 +1,26 @@
 # Onboarding
 
+![](../../../.gitbook/assets/screen-shot-2020-09-22-at-12.35.12-pm.png)
+
+### 
+
 ### Onboarding Logo Image
 
-### Main Social Image
+This is the purple DEV in the image above.  It should be a square.
 
 ### Onboarding Background Image
 
-[Example image](https://res.cloudinary.com/practicaldev/image/fetch/s--7uWF9VxV--/c_limit,f_auto,fl_progressive,q_75,w_1680/https://dev.to/assets/onboarding-background-white.png) from DEV.  The DEV image is 1559px \* 845px, for an aspect ratio of   Appears as:
+[Example image](https://res.cloudinary.com/practicaldev/image/fetch/s--7uWF9VxV--/c_limit,f_auto,fl_progressive,q_75,w_1680/https://dev.to/assets/onboarding-background-white.png) from DEV. 
 
-![](../../../.gitbook/assets/screen-shot-2020-09-22-at-12.35.12-pm.png)
+The DEV image is 1559px \* 845px
 
 ### Onboarding Taskcard Image
 
-### Suggested Users
+### Suggested Users & Tags
 
-### Suggested Tags
+These users and tags will show up as suggested follows in the onboarding process.
+
+![](../../../.gitbook/assets/screen-shot-2020-09-22-at-12.55.14-pm.png)
+
+![](../../../.gitbook/assets/screen-shot-2020-09-22-at-12.55.29-pm.png)
 

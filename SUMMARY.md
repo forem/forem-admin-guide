@@ -29,6 +29,7 @@
     * [Social Media](admin/config/all-site-configuration/social-media.md)
     * [Tags](admin/config/all-site-configuration/tags.md)
     * [User Experience and Brand](admin/config/all-site-configuration/user-experience-and-brand.md)
+* [Pages](admin/pages.md)
 * [Users](admin/users/README.md)
   * [Manage User](admin/users/manage-user.md)
   * [User Roles](admin/users/user-roles.md)

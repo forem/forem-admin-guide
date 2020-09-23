@@ -6,7 +6,6 @@
 ## Admin
 
 * [Config](admin/config/README.md)
-  * [Get Started](admin/config/get-started.md)
   * [All Site Configuration](admin/config/all-site-configuration/README.md)
     * [API Tokens](admin/config/all-site-configuration/api-tokens.md)
     * [Authentication](admin/config/all-site-configuration/authentication.md)
@@ -24,6 +23,7 @@
     * [Newsletter](admin/config/all-site-configuration/newsletter.md)
     * [Onboarding](admin/config/all-site-configuration/onboarding.md)
     * [Rate Limits](admin/config/all-site-configuration/rate-limits.md)
+    * [Sponsors](admin/config/all-site-configuration/sponsors.md)
     * [Social Media](admin/config/all-site-configuration/social-media.md)
     * [Tags](admin/config/all-site-configuration/tags.md)
     * [User Experience and Brand](admin/config/all-site-configuration/user-experience-and-brand.md)

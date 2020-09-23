@@ -6,6 +6,7 @@
 ## Admin
 
 * [Config](admin/config/README.md)
+  * [Get Started](admin/config/get-started.md)
   * [All Site Configuration](admin/config/all-site-configuration/README.md)
     * [API Tokens](admin/config/all-site-configuration/api-tokens.md)
     * [Authentication](admin/config/all-site-configuration/authentication.md)

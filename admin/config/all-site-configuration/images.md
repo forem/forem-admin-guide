@@ -20,6 +20,10 @@ The Favicon is a small, iconic image that represents your website. Favicons are 
 You can quickly generate a URL image link by visiting /new and uploading a photo.
 {% endhint %}
 
+### Logo PNG
+
+// todo
+
 ### Logo SVG
 
 This is the logo that appears on the nav bar and footer of the site. Please upload in SVG format. 

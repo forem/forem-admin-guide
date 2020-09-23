@@ -1,12 +1,12 @@
 ---
-description: Here's a guide written specifically for Forem Admins.
+description: A guide to configuring and operating your community with Forem.
 ---
 
 # Forem Admin Guide
 
-This guide is for anyone creating a [Forem](https://github.com/forem/forem).
+This guide is for anyone creating a community built on [Forem](https://github.com/forem/forem).
 
-It's a _work in progress_ so please direct any questions to the Forem team.  Additionally, we encourage you to direct any questions not answered in this guide to our our meta forem at [forem.dev](https://forem.dev/).
+The guide is a _work in progress_ so please direct any questions to the Forem team.  Additionally, we encourage you to direct any questions not answered in this guide to our our meta forem at [forem.dev](https://forem.dev/).
 
 We recommend that you begin with these pages:
 

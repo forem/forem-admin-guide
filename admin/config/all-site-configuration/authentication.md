@@ -16,7 +16,7 @@ Choose which authentication providers users can log in from. We currently offer:
   * First, apply for a developer account at [developer.twitter.com](http://developer.twitter.com/) \(the approval process normally takes about a day\)
   * Then, [follow these instructions](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter) to generate the keys.
 * [GitHub](https://docs.github.com/en/developers/apps/creating-an-oauth-app)
-  * Callback URL: ```https://{your-forem-url.com}/users/auth/github``
+  * Callback URL: `https://{your-forem-url.com}/users/auth/github`
 * [Facebook](https://developers.facebook.com/docs/apps)
 
 Apple and Google are coming soon.

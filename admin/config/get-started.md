@@ -6,7 +6,7 @@ description: A guide to the "Get Started" section of the Config
 
 ## Get Started:
 
-The information on this page is intended to guide you through the "Get Started" fields.  Please also review to our [All Site Configuration](all-site-configuration/) documentation.
+The information on this page is intended to guide you through the "Get Started" fields.  Please also review our [All Site Configuration](all-site-configuration/) documentation.
 
 ### Documentation for each field:
 

@@ -12,8 +12,11 @@ Check this box to enable user registration via email.
 
 Choose which authentication providers users can log in from. We currently offer:
 
-* [Twitter](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter) 
-* [GitHub](https://github.com/settings/developers)
+* Twitter
+  * First, apply for a developer account at [developer.twitter.com](http://developer.twitter.com/) \(the approval process normally takes about a day\)
+  * Then, [follow these instructions](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter) to generate the keys.
+* [GitHub](https://docs.github.com/en/developers/apps/creating-an-oauth-app)
+  * // TODO, what is authorization callback URL?
 * [Facebook](https://developers.facebook.com/docs/apps)
 
 Apple and Google are coming soon.

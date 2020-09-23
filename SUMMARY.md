@@ -42,4 +42,5 @@
 ## Misc
 
 * [CNAME](misc/cname.md)
+* [HTML Variants](misc/html-variants.md)
 

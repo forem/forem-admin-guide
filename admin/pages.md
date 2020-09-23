@@ -33,3 +33,11 @@ Visiting `/admin/pages/new` allows you to create a new page.
 * Feature Flag
   * //todo
 
+### What can you do with pages?
+
+* [Here is an example of a simple contained Markdown page](https://dev.to/about)
+* [Here is an example of a full\_within\_layout page that uses HTML](https://dev.to/downloads)
+* You can create more sophisticated pages, such as:
+  * [A blend of static content with custom CSS + dynamic posts](https://dev.to/shecoded)
+  * [A full-on conference experience](https://dev.to/codeland)
+

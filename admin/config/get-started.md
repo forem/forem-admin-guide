@@ -30,7 +30,7 @@ Please click the following links for more information on each field in the "Get 
 
 As part of your initial set-up, we encourage you to also configure your:
 
-* [Logo SVG](all-site-configuration/images.md#logo-svg)
+* [Logo SVG](all-site-configuration/images.md#logo-svg) \(aka navbar logo\)
 * [Authentication](all-site-configuration/authentication.md)
 * [Sidebar tags](all-site-configuration/tags.md#sidebar-tags)
 

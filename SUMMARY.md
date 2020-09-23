@@ -1,7 +1,7 @@
 # Table of contents
 
-* [About Forem Admin Guide](README.md)
-* [Getting Started](getting-started.md)
+* [Forem Admin Guide](README.md)
+* [Overview + First Steps](getting-started.md)
 
 ## Admin
 

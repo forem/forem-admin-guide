@@ -5,11 +5,6 @@
 
 ## Admin
 
-* [Articles](admin/articles.md)
-* [Badge Achivements](admin/badge-achivements.md)
-* [Badges](admin/badges.md)
-* [Chat Channels](admin/chat-channels.md)
-* [Comments](admin/comments.md)
 * [Config](admin/config/README.md)
   * [Get Started](admin/config/get-started.md)
   * [All Site Configuration](admin/config/all-site-configuration/README.md)
@@ -32,10 +27,6 @@
     * [Social Media](admin/config/all-site-configuration/social-media.md)
     * [Tags](admin/config/all-site-configuration/tags.md)
     * [User Experience and Brand](admin/config/all-site-configuration/user-experience-and-brand.md)
-* [Config: Profile Setup](admin/config-profile-setup.md)
-* [Display Ads](admin/display-ads.md)
-* [Permissions](admin/permissions.md)
-* [Tags](admin/tags.md)
 * [Users](admin/users/README.md)
   * [Manage User](admin/users/manage-user.md)
   * [User Roles](admin/users/user-roles.md)

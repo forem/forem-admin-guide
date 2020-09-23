@@ -28,7 +28,7 @@ A regular member is a user in good standing. They have access to all basic privi
 
 Users with the 'trusted' role are your basic community moderators. They have access to `/mod` and see a moderate icon on every post. Learn how moderation works by visiting the [moderation page](../../community-tips/moderation.md).
 
-Our next level of moderators are Tag Moderators. These are trusted users with an additional set of privileges: permission to moderate specific tags across the community. You can make a user a tag moderator by visiting the associated [tag admin page](../tags.md).
+Our next level of moderators are Tag Moderators. These are trusted users with an additional set of privileges: permission to moderate specific tags across the community. You can make a user a tag moderator by visiting the associated [tag admin page]().
 
 ### Warn
 

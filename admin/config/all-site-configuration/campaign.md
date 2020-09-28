@@ -21,6 +21,8 @@ You can choose to enable each feature individually or at the same time.
 
 ### Campaign Hero HTML Variant Name
 
+An HTML Variant is the HTML and CSS design of your banner. Visit /admin/html\_variants to design your banner and add the name of the HTML variant to this field.
+
 ### Campaign Articles Require Approval
 
 If using the sidebar, select this box if the articles under your selected tags should be approved before being shown here. Note: the articles will still appear on the main tag page, but they will be hidden from the homepage sidebar. 

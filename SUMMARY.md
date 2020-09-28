@@ -30,6 +30,7 @@
     * [Tags](admin/config/all-site-configuration/tags.md)
     * [User Experience and Brand](admin/config/all-site-configuration/user-experience-and-brand.md)
 * [Badges](admin/badges.md)
+* [HTML Variants](admin/html-variants.md)
 * [Pages](admin/pages.md)
 * [Users](admin/users/README.md)
   * [Manage User](admin/users/manage-user.md)

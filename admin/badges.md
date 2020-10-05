@@ -2,11 +2,31 @@
 
 ### Overview
 
-Badges are a great way to reward and encourage your community.
+Badges appear on user profiles and are a great way to reward your community. People love collecting badges!
 
-### How are badges awarded?
+### How To Create A Badge
 
-Most badges are awarded manually via `/admin/badge_achievements`, but we also support custom logic for rewarding badges.
+Click 'Create Badge' and you'll be led to a form with the following fields: 
+
+* Title: name of badge
+* Slug: the URL for the badge \(/badges/slug-of-badge\) so people can read abou the badge.
+* Description: the description that appears when a user is awarded the badge
+* Badge Image: upload an image of your badge
+
+### How To Award A Badge
+
+#### Manually
+
+Most badges are awarded manually via `/admin/badges` and `/admin/badge_achievements`  by clicking the 'award badge' button. To award a badge: 
+
+* Badge: Select the name of badge to be awarded
+* Usernames: List the usernames of each user that should receive the badge in a comma-separated format.
+* Override Default Message: The default message is the badge description, but you can override that message by adding a custom one here.
+* Click 'Award Badges'
+
+#### Automatically
+
+We have a default set of badges that get awarded automatically.
 
 Examples types of badges from DEV:
 

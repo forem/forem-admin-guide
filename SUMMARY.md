@@ -18,7 +18,7 @@
     * [Email Digest](admin/config/all-site-configuration/email-digest.md)
     * [Jobs](admin/config/all-site-configuration/jobs.md)
     * [Google Analytics](admin/config/all-site-configuration/google-analytics.md)
-    * [Google ReCAPTCHA](admin/config/all-site-configuration/google-recaptcha.md)
+    * [Google reCAPTCHA](admin/config/all-site-configuration/google-recaptcha.md)
     * [Images](admin/config/all-site-configuration/images.md)
     * [Mascot](admin/config/all-site-configuration/mascot.md)
     * [Meta Keywords](admin/config/all-site-configuration/meta-keywords.md)

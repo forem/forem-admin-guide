@@ -10,7 +10,7 @@ The navigation links section is used to configure the sidebar that appears on yo
 
 | Name | URL |
 | :--- | :--- |
-| Reading Lists | /readinglist |
+| Reading List | /readinglist |
 | Code of Conduct | /code-of-conduct |
 | Privacy Policy | /privacy |
 | Terms of use | /terms |

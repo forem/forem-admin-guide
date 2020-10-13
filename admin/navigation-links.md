@@ -18,6 +18,8 @@ The navigation links section is used to configure the sidebar that appears on yo
 
 Alongside the /readinglist URL you will notice that a counter appears in order to display to the user the number of items in their reading list. 
 
+If you create more than 5 links, then the first 5 links will be visible by default on the sidebar, whilst the rest will be collapsed into a 'More' section. When 'More' is clicked the remainder of the links will display.   
+
 ### Possible additional navigation links:
 
 Some additional navigational links that can be created once you have content for these pages include:

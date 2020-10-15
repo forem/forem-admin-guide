@@ -12,8 +12,6 @@ The users index displays a list of users that have signed up for your community.
 * Click on a username to see more details or take action on the user.
 * Click on a GitHub username to see a user's community profile.
 
-
-
 ![Screenshot of /admin/users.](../../.gitbook/assets/screen-shot-2020-09-21-at-5.17.24-pm.png)
 
 ## Individual User Page

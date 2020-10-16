@@ -9,6 +9,7 @@ However, we are in the fairly naive early days of the feed, so primarily it is a
 ### Feed Style
 
 * `basic` is the standard feed, where only the top post in the feed will show its cover image
+* `rich` displays the cover image on all posts in the feed
 
 ### Feed strategy
 

@@ -39,6 +39,7 @@
   * [Manage User](admin/users/manage-user.md)
   * [User Roles](admin/users/user-roles.md)
   * [Invite a New User](admin/users/inviting-a-new-user.md)
+* [Tags](admin/tags.md)
 
 ## Community Tips
 

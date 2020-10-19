@@ -26,7 +26,7 @@
     * [Monetization](admin/config/all-site-configuration/monetization.md)
     * [Newsletter](admin/config/all-site-configuration/newsletter.md)
     * [Onboarding](admin/config/all-site-configuration/onboarding.md)
-    * [Rate Limits](admin/config/all-site-configuration/rate-limits.md)
+    * [Rate Limits & Anti-Spam](admin/config/all-site-configuration/rate-limits.md)
     * [Sponsors](admin/config/all-site-configuration/sponsors.md)
     * [Social Media](admin/config/all-site-configuration/social-media.md)
     * [Tags](admin/config/all-site-configuration/tags.md)

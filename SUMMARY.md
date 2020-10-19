@@ -6,6 +6,7 @@
 
 ## Admin
 
+* [Badges](admin/badges.md)
 * [Config](admin/config/README.md)
   * [Get Started](admin/config/get-started.md)
   * [All Site Configuration](admin/config/all-site-configuration/README.md)
@@ -30,7 +31,7 @@
     * [Social Media](admin/config/all-site-configuration/social-media.md)
     * [Tags](admin/config/all-site-configuration/tags.md)
     * [User Experience and Brand](admin/config/all-site-configuration/user-experience-and-brand.md)
-* [Badges](admin/badges.md)
+* [Display Ads](admin/display-ads.md)
 * [HTML Variants](admin/html-variants.md)
 * [Navigation Links](admin/navigation-links.md)
 * [Pages](admin/pages.md)

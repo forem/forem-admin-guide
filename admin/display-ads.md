@@ -52,7 +52,3 @@ If you do not have publishing privileges, you'll need to ask an admin to approve
 
 _Please note: it'll take a few minute for your display ad or any changes made to your display ad to appear on the home page._
 
-
-
-
-

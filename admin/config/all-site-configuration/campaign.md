@@ -37,7 +37,7 @@ Add an optional image URL if you'd like to include an image above your campaign 
 
 ### Campaign URL
 
-This link directs users to more information about your campaign.
+This link directs users to more information about your campaign when they click on the campaign sidebar image. 
 
 ### Campaign Featured Tags
 

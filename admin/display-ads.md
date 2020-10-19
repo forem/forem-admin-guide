@@ -6,7 +6,7 @@ description: How to create Display Ads for your community.
 
 ### Overview
 
-Display ads are images/text you can add to the upper right and lower left sidebars of your community homepage. 
+Display ads are images/text/links you can add to the upper right and lower left sidebars of your community homepage. 
 
 ![Annotation of left and ride sidebar](../.gitbook/assets/image-2020-10-19-at-3.38.53-pm.png)
 

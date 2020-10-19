@@ -12,5 +12,5 @@ description: >-
 
 * [Setting a campaign hero HTML](../admin/config/all-site-configuration/campaign.md#campaign-hero-html-variant-name)
 * [Setting a campaign sidebar image](../admin/config/all-site-configuration/campaign.md#campaign-sidebar-image)
-* Setting a display ad
+* [Setting a display ad](../admin/display-ads.md)
 

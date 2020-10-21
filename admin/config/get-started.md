@@ -14,15 +14,11 @@ Please click the following links for more information on each field in the "Get 
 
 * [Community name](all-site-configuration/community-content.md#community-name)
 * [Community description](all-site-configuration/community-content.md#community-description)
-* [Community action](all-site-configuration/community-content.md#community-action)
-* [Tagline](all-site-configuration/community-content.md#tagline)
 * [Main social image](all-site-configuration/images.md#main-social-image)
 * [Logo png](all-site-configuration/images.md#logo-png)
+* [Logo svg](all-site-configuration/images.md#logo-svg)
 * [Mascot user](all-site-configuration/mascot.md#mascot-user-id)
 * [Mascot image url](all-site-configuration/mascot.md#mascot-image-url)
-* [Meta keywords \(default\)](all-site-configuration/meta-keywords.md#default)
-* [Meta keywords \(article\)](all-site-configuration/meta-keywords.md#article)
-* [Meta keywords \(tag\)](all-site-configuration/meta-keywords.md#tag)
 * [Suggested tags](all-site-configuration/onboarding.md#suggested-users-and-tags)
 * [Suggested users](all-site-configuration/onboarding.md#suggested-users-and-tags)
 

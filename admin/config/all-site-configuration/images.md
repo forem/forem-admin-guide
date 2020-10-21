@@ -26,7 +26,7 @@ You can quickly generate a URL image link by visiting /new and uploading a photo
 
 ### Logo SVG
 
-This is the logo that appears on the nav bar and footer of the site. Please upload in SVG format. 
+This is the logo that appears on the nav bar and footer of the site. Please upload in SVG format, with a max height of 50px. 
 
 ![Logo SVG on navbar](../../../.gitbook/assets/screen-shot-2020-09-12-at-1.25.50-pm.png)
 

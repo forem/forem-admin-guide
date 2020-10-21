@@ -2,8 +2,6 @@
 
 ![](../../../.gitbook/assets/screen-shot-2020-09-22-at-12.35.12-pm.png)
 
-### 
-
 ### Onboarding Logo Image
 
 This is the purple DEV in the image above.  It should be a square.

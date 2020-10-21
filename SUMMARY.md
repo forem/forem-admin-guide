@@ -35,6 +35,7 @@
 * [HTML Variants](admin/html-variants.md)
 * [Navigation Links](admin/navigation-links.md)
 * [Pages](admin/pages.md)
+* [Podcasts](admin/podcasts.md)
 * [Reports](admin/reports.md)
 * [Users](admin/users/README.md)
   * [Manage User](admin/users/manage-user.md)

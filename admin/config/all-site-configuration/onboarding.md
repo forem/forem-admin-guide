@@ -16,6 +16,10 @@ The DEV image is 1559px \* 845px
 
 ### Onboarding Taskcard Image
 
+The onboarding taskcard image is the logo that appears in the box at the top of the feed after someone signs up.
+
+![Onboarding Taskcard Image](../../../.gitbook/assets/image-2020-10-21-at-11.55.07-am.png)
+
 ### Suggested Users & Tags
 
 These users and tags will show up as suggested follows in the onboarding process.

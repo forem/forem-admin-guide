@@ -44,6 +44,8 @@ Changing a users's status to the warn role does not automatically send an email 
 
 Admins have access to all /admin pages on the site but do not have the ability to make site configuration changes \(i.e. admin/config\). We recommend limiting the number of people who have admin permissions and considering single resource admin privileges first.
 
+Admins can unpublish articles by appending /edit to the end of an article url and updating the article manually. 
+
 ### Single Resource Admin
 
 Single resource admins have access to select /admin pages. For example,`single_resource_admin: users` gives access to `/admin/users` only. You can give someone as many single resource admin pages as you'd like. 

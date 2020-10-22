@@ -43,6 +43,10 @@
   * [Invite a New User](admin/users/inviting-a-new-user.md)
 * [Tags](admin/tags.md)
 
+## Community Moderation
+
+* ["Trusted" User Features](community-moderation/trusted-user-features.md)
+
 ## Community Tips
 
 * [Organization Pages](community-tips/organization-pages.md)

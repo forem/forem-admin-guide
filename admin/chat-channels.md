@@ -39,6 +39,10 @@ You can give them a direct invitation link to join the channel. To find your inv
 * Copy the invitation link
 * Share the invitation link with whoever you're inviting
 
+![](../.gitbook/assets/l2s27233mbg7t1kv3dw4.png)
+
+![](../.gitbook/assets/85eo1v89vklsfcvb3b5b.png)
+
 #### 3. Making your chat channel discoverable
 
 You can make your chat channel discoverable to all community members when they search through the Connect search bar. In order to make your chat channel appear in search:

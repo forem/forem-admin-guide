@@ -7,6 +7,7 @@
 ## Admin
 
 * [Badges](admin/badges.md)
+* [Chat Channels](admin/chat-channels.md)
 * [Config](admin/config/README.md)
   * [Get Started](admin/config/get-started.md)
   * [All Site Configuration](admin/config/all-site-configuration/README.md)

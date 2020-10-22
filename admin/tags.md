@@ -8,7 +8,7 @@ The `/admin/tags` page displays all tags associated with posts on your Forem.  B
 
 ### Editing a tag
 
-To edit a tag, click on the tag name.  You will be dropped into the `/tags/{tag-id}/edit` page.
+To edit a tag, click on the tag name.  You will be dropped into the `/admin/tags/{tag-id}/edit` page.
 
 **Moderators**: add a user ID to add a tag moderator
 

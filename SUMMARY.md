@@ -47,6 +47,7 @@
 
 * [Trusted User Features](community-moderation/trusted-user-features.md)
 * [Tag Moderator Features](community-moderation/tag-moderator-features.md)
+* [Admin Moderation Features](community-moderation/admin-moderation-features.md)
 
 ## Community Tips
 

@@ -14,6 +14,8 @@ Note: Tag moderators can only remove or add the tags they are assigned to, but a
 
 ![](../.gitbook/assets/image-2020-10-22-at-3.54.34-pm.png)
 
+![The recipient will receive a message like this](../.gitbook/assets/image-2020-10-22-at-9.34.32-am.png)
+
 ### Edit Tag Pages
 
 Tag Moderators can edit the tag page of the tag they are assigned to. They can do so by navigating to `/t/{tagname}/edit` . They will be presented with the following fields:

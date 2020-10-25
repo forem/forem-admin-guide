@@ -4,6 +4,8 @@ description: A guide to configuring and operating your community with Forem.
 
 # Forem Admin Guide
 
+If you are visiting this guide from the [associated GitHub repo](https://github.com/forem/forem-admin-guide), **we recommend that you view the GitBook-generated version here:** [**https://app.gitbook.com/@forem/s/forem-admin-guide/**](https://app.gitbook.com/@forem/s/forem-admin-guide/)\*\*\*\*
+
 ## Get Started
 
 This guide is for anyone creating a community built on [Forem](https://github.com/forem/forem). The Forem admin section lives at `/admin`

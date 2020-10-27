@@ -23,5 +23,9 @@ Every DNS provider is a bit different, but you'll be setting the Type, Value, Ho
 
 Currently, we are not able to support APEX domains, such as `https://your-forem.com`.  If this is a hard requirement and you're not able to use `https://www.your-forem.com` or an equivalent, please contact the Forem account management team.
 
-For Cloudflare users, we recommend forwarding APEX domain traffic to the `www` version.  Here are instructions on [how to configure this redirect at Cloudflare](https://community.cloudflare.com/t/redirect-example-com-to-www-example-com/78348).
+For Cloudflare users, we recommend forwarding APEX domain traffic to the `www` version.  Here are instructions:
+
+* **Important:** you must only use Cloudflare for DNS, and not their additional services
+* To "pause" Cloudflare on your domain, [follow these instructions](https://support.cloudflare.com/hc/en-us/articles/203118044-How-do-I-temporarily-deactivate-Cloudflare-#h_8654c523-e31e-4f40-a3c7-0674336a2753)
+* To configure the redirect,[ follow these instructions](https://community.cloudflare.com/t/redirect-example-com-to-www-example-com/78348)
 

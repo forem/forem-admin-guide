@@ -25,6 +25,7 @@ You can configure whether community members can use email/password to register a
 Choose which authentication providers users can log in from. We currently offer:
 
 * Twitter
+
   * [More info here](https://docs.forem.com/backend/auth-twitter/)
   * First, apply for a developer account at [developer.twitter.com](http://developer.twitter.com/) \(the approval process normally takes about a day\)
   * Then, [follow these instructions](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter) to generate the keys.
@@ -35,6 +36,8 @@ Choose which authentication providers users can log in from. We currently offer:
     * `https://www.{forem-url.com}/users/auth`
     * `https://www.{forem-url.com}/users/auth/twitter`
     * `https://www.{forem-url.com}/users/auth/twitter/callback`
+  * Be sure to select the "[request email address from users](https://user-images.githubusercontent.com/22895284/51078803-9a9a2700-16bb-11e9-8f27-dbfe04b52031.png)" option
+
 * [GitHub OAuth instructions](https://docs.github.com/en/developers/apps/creating-an-oauth-app)
   * [More information here](https://docs.forem.com/backend/auth-github/)
   * Callback URL: `https://{your-forem-url.com}/users/auth/github`

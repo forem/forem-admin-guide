@@ -37,6 +37,7 @@ Choose which authentication providers users can log in from. We currently offer:
     * `https://www.{forem-url.com}/users/auth/twitter`
     * `https://www.{forem-url.com}/users/auth/twitter/callback`
   * Be sure to select the "[request email address from users](https://user-images.githubusercontent.com/22895284/51078803-9a9a2700-16bb-11e9-8f27-dbfe04b52031.png)" option
+    * You may need to ensure that your app points to a valid Terms of Service + Privacy page to see this option as available \([details](https://developer.twitter.com/en/docs/apps/app-permissions)\)
 
 * [GitHub OAuth instructions](https://docs.github.com/en/developers/apps/creating-an-oauth-app)
   * [More information here](https://docs.forem.com/backend/auth-github/)

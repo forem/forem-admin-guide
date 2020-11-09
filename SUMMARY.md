@@ -3,6 +3,7 @@
 * [Forem Admin Guide](README.md)
 * [Overview + First Steps](getting-started.md)
 * [FAQ](faq.md)
+* [Forem Gallery / Examples](forem-gallery-examples.md)
 
 ## Admin
 

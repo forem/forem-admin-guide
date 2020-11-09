@@ -22,7 +22,7 @@ You can quickly generate a URL image link by visiting /new and uploading a photo
 
 ### Logo PNG
 
-// todo
+Used as a fallback to the SVG
 
 ### Logo SVG
 
@@ -34,9 +34,7 @@ This is the logo that appears on the nav bar and footer of the site. Please uplo
 
 ### Secondary Logo URL
 
-{% hint style="info" %}
-You can quickly generate a URL image link by visiting /new and uploading a photo.
-{% endhint %}
+### 
 
 ### Left Navbar SVG Icon
 

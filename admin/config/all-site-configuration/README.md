@@ -2,7 +2,7 @@
 
 ### [API Tokens](api-tokens.md)
 
-Used to set the health check token.
+Used to set the health check token, video encoder key, and other tokens.
 
 ### [Authentication](authentication.md)
 
@@ -60,7 +60,7 @@ You'll set the newsletter IDs for your various mailing lists.
 
 Defining the onboarding settings for new community members.
 
-### \*\*\*\*[**Rate limits**](rate-limits.md)\*\*\*\*
+### \*\*\*\*[**Rate limits and anti-spam**](rate-limits.md) ****
 
 A place to tweak different rate limits for your community.
 

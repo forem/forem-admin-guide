@@ -43,5 +43,9 @@ This link directs users to more information about your campaign when they click 
 
 Posts under these tags will be featured on the campaign sidebar.
 
+### Campaign Call to Action
+
+This text is set to "Share your project" in the above screenshot.  It can be adjusted at your preference.
+
 
 

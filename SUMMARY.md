@@ -4,6 +4,8 @@
 * [Overview + First Steps](getting-started.md)
 * [FAQ](faq.md)
 * [Forem Gallery / Examples](forem-gallery-examples.md)
+* [Going Live](going-live/README.md)
+  * [CNAME](going-live/cname.md)
 
 ## Admin
 
@@ -57,6 +59,5 @@
 
 ## Misc
 
-* [CNAME](misc/cname.md)
 * [Customizing with Campaigns + Display Ads](misc/customizing-with-campaigns-+-display-ads.md)
 

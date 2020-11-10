@@ -26,7 +26,5 @@ As a superadmin, you're able to start configuring your forem.
 
 ### Launching your Forem
 
-Your forem likely won't live as a `forem.cloud` subdomain forever!  When you're ready to launch your Forem on your own domain:
-
-* Please add [a CNAME record](misc/cname.md)
+Your forem likely won't live as a `forem.cloud` subdomain forever!  When you're ready to launch your Forem on your own domain refer to our "[Going Live](going-live/)" resources.
 

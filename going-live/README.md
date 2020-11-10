@@ -20,5 +20,9 @@ You likely have a `forem.cloud` subdomain, but it's highly likely that you'll wa
 
 _Currently_, you'll need to contact the Forem Support to have your community go live on its custom domain.  Please contact us at [team@forem.com](mailto:team@forem.com) \(or send us a Slack Message if you have Priority Support\) when you're ready to make the domain switch.
 
+### Post Launch Checklist
+
+* [ ] Update URLs in [relevant OAuth apps](../admin/config/all-site-configuration/authentication.md#generating-keys) to reflect the production domain 
+
 
 

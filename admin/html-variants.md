@@ -119,7 +119,7 @@ Below is an example of an HTML Variant that results in this banner:
 
   @media screen and (max-width: 1200px) {
     .campaignmode-hackathon--clipart {
-      width: calc(210px + 10vw) !important;
+      width: 80%;
       vertical-align: -18px !important;
     }
   }
@@ -127,10 +127,10 @@ Below is an example of an HTML Variant that results in this banner:
   @media screen and (max-width: 800px) {
      .campaignmode-hackathon {
        border-radius: 0px;
-       margin: 0px;
-       width: 100%;
+       width: 80%;
        font-size: 0.9em;
-    }
+  }
+  
     .campaignmode-hackathon--first {
       width: 90%;
       margin-left: 5%;

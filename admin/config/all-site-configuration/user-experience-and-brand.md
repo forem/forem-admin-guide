@@ -24,7 +24,7 @@ Select the default font that you'd like to display on your community
 
 ### Primary Brand Color Hex
 
-This changes the look of several buttons and elements across the forem.
+This changes the look of several elements across the Forem, including buttons and links.
 
 ### Public
 

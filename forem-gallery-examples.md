@@ -14,6 +14,7 @@ Check out some of the live communities built on Forem for inspiration.  Pretty m
 * [Snyk Community](https://community.snyk.io)
 * [The Community Club](https://the.community.club)
 * [LetsBuild](https://letsbuild.gg)
+* [Fashion Page](https://www.fashionpage.io)
 * _See a Forem that's missing from this list?_  [_Submit a PR to add it_](https://github.com/forem/forem-admin-guide/blob/master/forem-gallery-examples.md)_!_
 
 

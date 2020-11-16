@@ -34,7 +34,12 @@ This is the logo that appears on the nav bar and footer of the site. Please uplo
 
 ### Secondary Logo URL
 
-### 
+The secondary logo is used in the following locations:
+
+* Signup modal 
+* Sidebar additional \(if user not signed in\)
+* Nav menu \(if user not signed in\)
+* Sign in invitation
 
 ### Left Navbar SVG Icon
 

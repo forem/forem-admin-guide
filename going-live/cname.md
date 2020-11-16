@@ -25,7 +25,10 @@ Currently, we are not able to support APEX domains, such as `https://your-forem.
 
 For Cloudflare users, we recommend forwarding APEX domain traffic to the `www` version.  Here are instructions:
 
-* **Important:** you must only use Cloudflare for DNS, and not their additional services
-* To "pause" Cloudflare on your domain, [follow these instructions](https://support.cloudflare.com/hc/en-us/articles/203118044-How-do-I-temporarily-deactivate-Cloudflare-#h_8654c523-e31e-4f40-a3c7-0674336a2753)
-* To configure the redirect,[ follow these instructions](https://community.cloudflare.com/t/redirect-example-com-to-www-example-com/78348)
+* **Important:** you must disable the proxy on the CNAME DNS record
+* [Follow these instructions](https://community.cloudflare.com/t/redirect-example-com-to-www-example-com/78348) to configure the redirect from the APEX to the `www` version using "Page Rules"
+
+![An example of a proper configuration in Cloudflare](../.gitbook/assets/screen-shot-2020-11-16-at-11.33.41-am.png)
+
+
 

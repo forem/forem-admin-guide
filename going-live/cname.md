@@ -30,5 +30,5 @@ For Cloudflare users, we recommend forwarding APEX domain traffic to the `www` v
 
 ![An example of a proper configuration in Cloudflare](../.gitbook/assets/screen-shot-2020-11-16-at-11.33.41-am.png)
 
-
+![Example of Page Rules](../.gitbook/assets/screen-shot-2020-11-16-at-6.17.02-pm.png)
 

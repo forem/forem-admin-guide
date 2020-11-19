@@ -9,6 +9,7 @@
 
 ## Admin
 
+* [Events](admin/events.md)
 * [Badges](admin/badges.md)
 * [Chat Channels](admin/chat-channels.md)
 * [Config](admin/config/README.md)

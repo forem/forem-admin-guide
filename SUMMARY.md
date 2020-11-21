@@ -61,4 +61,5 @@
 ## Misc
 
 * [Customizing with Campaigns + Display Ads](misc/customizing-with-campaigns-+-display-ads.md)
+* [Setting up the Welcome Thread](misc/setting-up-the-welcome-thread.md)
 

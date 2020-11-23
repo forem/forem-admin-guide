@@ -18,6 +18,14 @@ However, we are in the fairly naive early days of the feed, so primarily it is a
 * `large_forem_experimental` should be reserved for large forem communities
   * Introduces some split testing and optimizations
 
+### Tag Feed Minimum Score
+
+Minimum score needed for a post to show up on default tag page.  We recommend keeping this at "0" for most Forems.
+
+### Home Feed Minimum Score
+
+Minimum score needed for a post to show up on the unauthenticated home page.  We recommend keeping this at "0" for most Forems.
+
 ### Default Font
 
 Select the default font that you'd like to display on your community

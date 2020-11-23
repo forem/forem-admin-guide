@@ -8,13 +8,13 @@ A users's role indicates the level of permissions they have across the site.
 
 ## Base Roles
 
-### Ban
+### Suspend
 
-Users with the 'ban' role no longer have the privilege to publish posts or comments across the site. Typically, a user is banned when they have broken the code of conduct or terms multiple times.
+Users with the 'suspend' role no longer have the privilege to publish posts or comments across the site. Typically, a user is suspended when they have broken the code of conduct or terms multiple times.
 
-### Comment Ban
+### Comment Suspend
 
-Users with the 'comment ban' role are users that no longer have the privilege to comment on posts. This role is typically reserved for users who struggle to communicate appropriately on comments but for some reason, publish completely appropriate posts.
+Users with the 'comment suspend' role are users that no longer have the privilege to comment on posts. This role is typically reserved for users who struggle to communicate appropriately on comments but for some reason, publish completely appropriate posts.
 
 ### Pro
 

@@ -15,7 +15,7 @@ The guide is a _work in progress_ so please direct any questions to the Forem te
 We recommend that you begin with these pages:
 
 * [Overview + First Steps](getting-started.md)
-* [Config]()
+* [Config](admin/config/)
 
 ## How To Contribute Docs
 

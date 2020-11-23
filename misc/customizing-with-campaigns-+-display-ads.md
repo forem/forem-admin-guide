@@ -12,7 +12,7 @@ description: >-
 
 **For more information, please refer to:**
 
-* [Setting a campaign hero HTML](../admin/config/all-site-configuration/campaign.md#campaign-hero-html-variant-name)
-* [Setting a campaign sidebar image](../admin/config/all-site-configuration/campaign.md#campaign-sidebar-image)
+* [Setting a campaign hero HTML](../admin/config/campaign.md#campaign-hero-html-variant-name)
+* [Setting a campaign sidebar image](../admin/config/campaign.md#campaign-sidebar-image)
 * [Setting a display ad](../admin/display-ads.md)
 

@@ -6,7 +6,7 @@ description: Configure your user log-in options.
 
 ### Invite Only Mode
 
-Check this option if you'd like your Forem to be private.  The only way that people will be able to create an account is [if you send them an invite](../../users/inviting-a-new-user.md).
+Check this option if you'd like your Forem to be private.  The only way that people will be able to create an account is [if you send them an invite](../users/inviting-a-new-user.md).
 
 ### Authentication Methods
 

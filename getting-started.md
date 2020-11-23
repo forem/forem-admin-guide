@@ -21,7 +21,7 @@ You'll create your account in one of three ways:
 
 As a superadmin, you're able to start configuring your forem.
 
-* Please review to our [Config documentation](admin/config/), especially the [Get Started](admin/config/#get-started) section
+* Please review to our [Config documentation](), especially the [Get Started]() section
 * Additionally, you may be interesting in [inviting a new user](admin/users/inviting-a-new-user.md) and [elevating their role](admin/users/user-roles.md).
 
 ### Launching your Forem

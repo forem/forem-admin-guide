@@ -8,7 +8,7 @@ Guidance on launching your Forem 🚀
 
 ### Double-check your registration options
 
-[Be sure to review the Authentication settings in Config](../admin/config/all-site-configuration/authentication.md) to ensure that your Forem is configured properly.  Is the community invite-only?  Fully public?  Make sure to configure your community properly on this page.
+[Be sure to review the Authentication settings in Config](../admin/config/authentication.md) to ensure that your Forem is configured properly.  Is the community invite-only?  Fully public?  Make sure to configure your community properly on this page.
 
 ### Setting a Custom Domain
 
@@ -22,7 +22,7 @@ _Currently_, you'll need to contact the Forem Support to have your community go 
 
 ### Post Launch Checklist
 
-* [ ] Update URLs in [relevant OAuth apps](../admin/config/all-site-configuration/authentication.md#generating-keys) to reflect the production domain 
+* [ ] Update URLs in [relevant OAuth apps](../admin/config/authentication.md#generating-keys) to reflect the production domain 
 
 
 

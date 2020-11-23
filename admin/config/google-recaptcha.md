@@ -19,16 +19,16 @@ description: >-
 
 Before submitting, it should look like this:
 
-![](../../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
-![](../../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 Once you've clicked submit, you should see your site and secret keys:  
 
 
-![](../../../.gitbook/assets/recaptcha-submit-example.png)
+![](../../.gitbook/assets/recaptcha-submit-example.png)
 
 Please add them to your Forem's config section via /admin/config:
 
-![](../../../.gitbook/assets/screen-shot-2020-10-08-at-9.54.03-am.png)
+![](../../.gitbook/assets/screen-shot-2020-10-08-at-9.54.03-am.png)
 

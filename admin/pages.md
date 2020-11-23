@@ -26,7 +26,7 @@ Visiting `/admin/pages/new` allows you to create a new page.
   * You'll usually use _one or the other_
   * You should have a very specific reason for using HTML and not Markdown
 * Social Image
-  * This is the social image for the page, [related info here](config/all-site-configuration/images.md#main-social-image)
+  * This is the social image for the page, [related info here](config/images.md#main-social-image)
 * Is Top Level Path?
   * If checked, your page lives at `/slug`
   * If not checked, your page lives at `/page/slug`

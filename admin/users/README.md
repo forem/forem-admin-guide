@@ -24,7 +24,7 @@ To take more destructive actions or upgrade a user's role, click "[Manage User](
 
 ### Credits
 
-Indicates how many credits a user has accrued or purchased. You can manually add/remove credits to both the individual user account and any organizations they are part of. [Credits can be customized.](../config/all-site-configuration/credits.md#about-credits)
+Indicates how many credits a user has accrued or purchased. You can manually add/remove credits to both the individual user account and any organizations they are part of. [Credits can be customized.](../config/credits.md#about-credits)
 
 ![Screenshot of Credits form](../../.gitbook/assets/screen-shot-2020-09-21-at-5.23.29-pm.png)
 

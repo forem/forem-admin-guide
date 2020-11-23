@@ -1,6 +1,6 @@
 # Onboarding
 
-![](../../../.gitbook/assets/screen-shot-2020-09-22-at-12.35.12-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-09-22-at-12.35.12-pm.png)
 
 ### Onboarding Logo Image
 
@@ -16,13 +16,13 @@ The DEV image is 1559px \* 845px
 
 The onboarding taskcard image is the logo that appears in the box at the top of the feed after someone signs up.
 
-![Onboarding Taskcard Image](../../../.gitbook/assets/image-2020-10-21-at-11.55.07-am.png)
+![Onboarding Taskcard Image](../../.gitbook/assets/image-2020-10-21-at-11.55.07-am.png)
 
 ### Suggested Users & Tags
 
 These users and tags will show up as suggested follows in the onboarding process.
 
-![](../../../.gitbook/assets/screen-shot-2020-09-22-at-12.55.14-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-09-22-at-12.55.14-pm.png)
 
-![](../../../.gitbook/assets/screen-shot-2020-09-22-at-12.55.29-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-09-22-at-12.55.29-pm.png)
 

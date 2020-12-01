@@ -20,7 +20,7 @@ Copy and paste "Your API Key" into the /admin/config field:
 
 ### Main Newsletter
 
-This is what DEV uses as their weekly newsletter that gets sent out every Monday. You can use this as your weekly newsletter through Mailchimp. Mailchimp calls these newsletters "audiences".
+This is what DEV uses as their weekly newsletter that gets sent out every Tuesday. You can use this as your weekly newsletter through Mailchimp. Mailchimp calls these newsletters "audiences".
 
 1. First, create an audience in Mailchimp: [https://us12.admin.mailchimp.com/lists/new-list/](https://us12.admin.mailchimp.com/lists/new-list/)
 2. Fill out the fields accordingly and save.

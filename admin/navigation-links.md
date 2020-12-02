@@ -53,9 +53,10 @@ You may also edit or delete your navigation link at any point.
 
 We recommend the [Twemoji project](https://twemoji.twitter.com/) for SVGs.
 
-* Find the SVG you'd like to use [here](https://twitter.github.io/twemoji/v/latest/preview.html)
+* Find the SVG you'd like to use [here](https://twitter.github.io/twemoji/v/latest/preview.html) \(right click and save the image to get the file name\)
 * Use the file name to find the SVG file in the proper folder
   * Versioned SVGs will be [here](https://github.com/twitter/twemoji/tree/gh-pages/v)
   * Non-Versioned SVGs will be [here](https://github.com/twitter/twemoji/tree/gh-pages/svg)
 * Once you've found the SVG, [copy the code](https://p241.p3.n0.cdn.getcloudapp.com/items/qGuvEKA9/Screen%20Recording%202020-10-15%20at%2012.35.11%20PM.mp4)
+* Enter the copied code into the Icon text box.
 

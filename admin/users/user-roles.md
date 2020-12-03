@@ -6,6 +6,16 @@ description: A description of different user roles across the site.
 
 A users's role indicates the level of permissions they have across the site.
 
+To update a user's role, you'll need to:
+
+* Find them via `/admin/users`
+* Click the "Manage User" button
+* Select their new role\(s\) in the drop-down
+
+![This is the page available at /admin/users](../../.gitbook/assets/screen-shot-2020-12-03-at-12.41.06-pm.png)
+
+![This is the page to manage users](../../.gitbook/assets/screen-shot-2020-12-03-at-12.41.18-pm.png)
+
 ## Base Roles
 
 ### Suspend

@@ -23,6 +23,7 @@ _Currently_, you'll need to contact the Forem Support to have your community go 
 ### Post Launch Checklist
 
 * [ ] Update URLs in [relevant OAuth apps](../admin/config/authentication.md#generating-keys) to reflect the production domain 
+* [ ] You will likely need to update the URL of your [navigation links](../admin/navigation-links.md)
 
 
 

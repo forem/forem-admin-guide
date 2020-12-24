@@ -6,18 +6,7 @@ description: A high-level overview of the most important Forem features.
 
 This is a quick introduction to the most important features you need to know about as a Forem Creator.  In many cases, this page will link out to standalone pages in the admin guide for further information.
 
-### Resources for Forem Creators
-
-As a Forem Creator, please make use of the following resources:
-
-* The [Forem Admin Guide](https://forem.gitbook.io/forem-admin-guide/) \(which you're already browsing\)
-* The private [Creators Forem](https://creators.forem.com)
-  * Exclusively for early partners and Forem Cloud customers
-  * Please email [team@forem.com](mailto:team@forem.com) if you need an invite
-* Email support via [team@forem.com](mailto:team@forem.com)
-* Slack support \(if we've set you up with that communication channel\)
-
-### [Forem Basics in under 10 minutes](https://www.loom.com/share/4cd18f6e15b94a818a7178a7aab20753)
+### [Forem Basics in under 10 minutes \(video\)](https://www.loom.com/share/4cd18f6e15b94a818a7178a7aab20753)
 
 Brand new Forem Creators should start off by [watching this quick introduction video](https://www.loom.com/share/4cd18f6e15b94a818a7178a7aab20753).  It covers the basics such as: accessing the admin area, setting a logo, changing colors, publishing a welcome thread, etc.
 

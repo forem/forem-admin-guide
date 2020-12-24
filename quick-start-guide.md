@@ -6,6 +6,8 @@ description: A high-level overview of the most important Forem features.
 
 This is a quick introduction to the most important features you need to know about as a Forem Creator.  In many cases, this page will link out to standalone pages in the admin guide for further information.
 
+As you need additional assistance, [please refer to these resources](./#additional-resources).
+
 ### [Forem Basics in under 10 minutes \(video\)](https://www.loom.com/share/4cd18f6e15b94a818a7178a7aab20753)
 
 Brand new Forem Creators should start off by [watching this quick introduction video](https://www.loom.com/share/4cd18f6e15b94a818a7178a7aab20753).  It covers the basics such as: accessing the admin area, setting a logo, changing colors, publishing a welcome thread, etc.

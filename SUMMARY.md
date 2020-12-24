@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Forem Admin Guide](README.md)
-* [Overview + First Steps](getting-started.md)
+* [Quick Start Guide](quick-start-guide.md)
 * [FAQ](faq.md)
 * [Forem Gallery / Examples](forem-gallery-examples.md)
 * [Going Live](going-live/README.md)

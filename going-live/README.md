@@ -6,9 +6,10 @@ description: Last-mile guidance on launching your Forem.
 
 Guidance on launching your Forem 🚀
 
-### Double-check your registration options
+### Double-check your registration options and private/public settings
 
-[Be sure to review the Authentication settings in Config](../admin/config/authentication.md) to ensure that your Forem is configured properly.  Is the community invite-only?  Fully public?  Make sure to configure your community properly on this page.
+* [Be sure to review the Authentication settings in Config](../admin/config/authentication.md) to ensure that your Forem is configured properly.
+* Is the community invite-only?  Fully public?  Make sure to configure your community properly under [Brand and UX](../admin/config/user-experience-and-brand.md#public).
 
 ### Setting a Custom Domain
 

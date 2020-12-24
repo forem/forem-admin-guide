@@ -6,16 +6,9 @@ description: Links to live Forems in case you need some inspiration
 
 Check out some of the live communities built on Forem for inspiration.  Pretty much anything that you encounter on these communities can be set up for your Forem as well.
 
-### Examples
+**Visit** [**forem.com/discover**](https://forem.com/discover) **for an updated list.**
 
-* [DEV](https://dev.to)
-* [Forem.dev](https://forem.dev)
-* [ThisMMALife](https://thismmalife.com)
-* [Snyk Community](https://community.snyk.io)
-* [The Community Club](https://the.community.club)
-* [LetsBuild](https://letsbuild.gg)
-* [FashionPage](https://fashionpage.io)
-* _See a Forem that's missing from this list?_  [_Submit a PR to add it_](https://github.com/forem/forem-admin-guide/blob/master/forem-gallery-examples.md)_!_
+![Visit forem.com/discover](.gitbook/assets/edafdaf3-cc2b-4560-a497-0e671b41c466.png)
 
 
 

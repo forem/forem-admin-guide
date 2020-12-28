@@ -2,15 +2,7 @@
 
 ### Community Name
 
-Name of community \(i.e. DEV\). Your community name will appear in places like the Code of Conduct, page titles, TOS + Privacy Policy, etc. 
-
-### Collective Noun
-
-This is an optional Noun that can be appended to the community name above.
-
-For instance, on `dev.to` the "Community Name" is `DEV` and the "Collective Noun" is `Community`.
-
-You may want to use a different noun \(`club`, `collective`, `society`, etc.\), or to disable this collective noun entirely.
+Name of the community, in addition to an optional noun that describes your community if desired \(e.g. DEV, DEV Community, DEV Club, etc.\). Your community name will appear in places like the Code of Conduct, page titles, TOS + Privacy Policy, etc.
 
 ### Tagline
 

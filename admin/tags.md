@@ -26,6 +26,27 @@ To edit a tag, click on the tag name.  You will be dropped into the `/admin/tags
 
 **Rules Markdown:** Displayed on tag page + in drop-down of rich editor
 
+**Submission Template**: Placeholder text that appears when creating a new post under the tag. You can share these templates by directing people to `/new/{tag_name}`. This is especially useful when encouraging members to post about a topic in a structured format. This field takes markdown. 
+
+Here's an example of the template used for [dev.to/new/shecoded](https://dev.to/new/shecoded): 
+
+```text
+---
+title: Nevertheless, PARAM_0 Coded 
+published: true
+tags: shecoded
+---
+<!-- ✨This template is only meant to get your ideas going, so please feel free to write your own title & narrative! ✨ -->
+
+## Equality in tech looks like… 
+
+## I’m an expert at…
+
+## My advice for allies to support self-identifying women and non-binary folks who code is...
+
+<!-- Once your post is published, it will not appear on the /t/shecoded page until an admin approves it. This is an extra step to ensure there is no abuse on this important tag. -->
+```
+
 **Wiki Body Markdown**: Displayed on tag page
 
 **BG + Text color hex**: Used as tag colors, ensure contrast meets a11y requirements

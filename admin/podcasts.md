@@ -25,13 +25,13 @@ In order to add a podcast, navigate to /pod and click "suggest a podcast". You w
 
 Click 'suggest' to enter the podcast into the system.
 
-Once a podcast is suggested, navigate to /resource\_admin/podcasts and take these steps:
+Once a podcast is suggested, navigate to /admin/podcasts and take these steps:
 
-* Find your podcast and click 'edit'
+* Find your podcast and click the title
 * Scroll to the bottom
-* Check 'Reachable'
-* Check 'Published"
-* Click 'Update Podcast'
+* Check the checkbox "Reachable"
+* Check the checkbox "Published"
+* Click "Update Podcast"
 
 Once these steps are taken, you should be able to navigate to your podcast page \(i.e. /mypodcast\) and see all recent podcasts.
 
@@ -61,6 +61,6 @@ You can add multiple admins for a podcast. To do so, take these steps:
 
 ### Edit Podcast
 
-Once a podcast suggestion has been submitted, you can edit details in podcast in /resource\_admin/podcasts or you can edit the title and Feed URL by visiting /admin/podcasts.   
+Once a podcast suggestion has been submitted, you can edit details in podcast by visiting /admin/podcasts.   
 
 

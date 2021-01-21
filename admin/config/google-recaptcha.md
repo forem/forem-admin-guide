@@ -28,7 +28,5 @@ Once you've clicked submit, you should see your site and secret keys:
 
 ![](../../.gitbook/assets/recaptcha-submit-example.png)
 
-Please add them to your Forem's config section via /admin/config:
-
-![](../../.gitbook/assets/screen-shot-2020-10-08-at-9.54.03-am.png)
+Please add them to your Forem's config section in the **Email** section of [`Config > Authentication`](authentication.md#email-and-password).
 

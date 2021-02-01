@@ -50,5 +50,7 @@ Here is an example of the body markdown from the image above:
 
 If you do not have publishing privileges, you'll need to ask an admin to approve and publish your display ad. 
 
-_Please note: it'll take a few minute for your display ad or any changes made to your display ad to appear on the home page._
+_Please note: it'll take a few minutes for your display ad or any changes made to your display ad to appear on the home page._
+
+_Additionally, if you attempt to publish a display ad and see an error, please make sure there is no space after the image source URL \(i.e. between `png`add the `"` mark in the example above\) as this can return an error._ 
 

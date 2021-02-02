@@ -38,5 +38,17 @@ Examples types of badges from DEV:
 
 ### How do I set up an automatically-awarded badge?
 
-//todo
+The following badges can be awarded automatically.  To do so, be sure to set up a badge using a matching `slug`.
+
+For the top post by tag badges, the Forem admin will need to create a badge and associate it with a tag.
+
+Here's a comprehensive list of the badges' slugs to recreate:
+
+| Badge Name | Badge Slug | Note |
+| :--- | :--- | :--- |
+| DEV Contributor | dev-contributor | This is not generalized. |
+| `x` Year Badge | `x`-year-club | N\A |
+| `x` Streak Badge | `x`-week-streak | capped at 16 weeks, must be 2,4,8,16 |
+| Tag Badge | slug of the tag | associate the badge with a tag via /admin/badges |
+| Beloved Comment | beloved-comment | N\A |
 

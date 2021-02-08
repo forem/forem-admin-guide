@@ -22,7 +22,7 @@ You can quickly generate a URL image link by visiting /new and uploading a photo
 
 ### Logo PNG
 
-Used as a fallback to the SVG
+Square image used to represent the website by crawlers \(i.e. larger alternative to favicon in some places\) and in the Forem ecosystem, and anywhere where the site's logo should be represented by a **square** PNG. It represents the primary logo everywhere except the nav area, because nav expects more custom dimensions.
 
 ### Logo SVG
 
@@ -34,9 +34,13 @@ This is the logo that appears on the nav bar and footer of the site. Please uplo
 
 ### Secondary Logo URL
 
+An optional secondary logo meant to complement the primary logo used to display on the page in addition to the nav bar logo \(logo SVG\). It is sometimes presented "tilted".
+
 The secondary logo is used in the following locations:
 
 * Signup modal 
+* Onboarding slides
+* Onboarding "task card"
 * Sidebar additional \(if user not signed in\)
 * Nav menu \(if user not signed in\)
 * Sign in invitation

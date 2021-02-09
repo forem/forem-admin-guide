@@ -23,8 +23,8 @@ Please make use of the following resources:
 * The [Forem Admin Guide](https://forem.gitbook.io/forem-admin-guide/) \(which you're already browsing\)
 * The private [Creators Forem](https://creators.forem.com)
   * Exclusively for early partners and Forem Cloud customers
-  * Please email [team@forem.com](mailto:team@forem.com) if you need an invite
-* Email support via [team@forem.com](mailto:team@forem.com)
+  * Please email [support@forem.com](mailto:team@forem.com) if you need an invite or [fill out this form](https://form.typeform.com/to/uOzFowby)
+* Email support via [support@forem.com](mailto:team@forem.com)
 * Slack support \(if we've set you up with that communication channel\)
 
 ### How To Contribute Docs

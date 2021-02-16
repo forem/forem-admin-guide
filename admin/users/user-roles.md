@@ -4,7 +4,7 @@ description: A description of different user roles across the site.
 
 # User Roles
 
-A users's role indicates the level of permissions they have across the site.
+A user's role indicates the level of permissions they have across the site.
 
 To update a user's role, you'll need to:
 
@@ -15,6 +15,14 @@ To update a user's role, you'll need to:
 ![This is the page available at /admin/users](../../.gitbook/assets/screen-shot-2020-12-03-at-12.41.06-pm.png)
 
 ![This is the page to manage users](../../.gitbook/assets/screen-shot-2020-12-03-at-12.41.18-pm.png)
+
+Admins have the ability to remove any role other than the "Super Admin" role from users. Admins do not, however, have the ability to remove roles from themselves. To remove a user's role, you'll need to:
+
+* Find them via `/admin/users`
+* Click the "Manage User" button
+* Click the "X" button next to the role\(s\) you wish to remove
+
+![This is where admins can remove roles from users other than themselves](../../.gitbook/assets/screen-shot-2021-02-08-at-10.16.44-am.png)
 
 ## Base Roles
 
@@ -42,11 +50,11 @@ Our next level of moderators are Tag Moderators. These are trusted users with an
 
 ### Warn
 
-Users with the 'warn' role are users that admins flag to one another because of their previous behavior across site. These are typically users that have broken the code of conduct previously with a minor offense. While we didn't ban their role the first time, we want to make sure their previous actions are taken into consideration if they break the code of conduct again. 
+Users with the 'warn' role are users that admins flag to one another because of their previous behavior across the site. These are typically users that have broken the code of conduct previously with a minor offense. While we didn't ban their role the first time, we want to make sure their previous actions are taken into consideration if they break the code of conduct again. 
 
 Users with the 'warn' role have all the same privileges as users with good standing.
 
-Changing a users's status to the warn role does not automatically send an email to the user \(though, we do recommend that you consider letting them know they are in a 'warned' state\). 
+Changing a user's status to the warn role does not automatically send an email to the user \(though, we do recommend that you consider letting them know they are in a 'warned' state\). 
 
 ## Special Roles
 
@@ -54,7 +62,7 @@ Changing a users's status to the warn role does not automatically send an email 
 
 Admins have access to all /admin pages on the site but do not have the ability to make site configuration changes \(i.e. admin/config\). We recommend limiting the number of people who have admin permissions and considering single resource admin privileges first.
 
-Admins can unpublish articles by appending /edit to the end of an article url and updating the article manually. 
+Admins can unpublish articles by appending /edit to the end of an article URL and updating the article manually. 
 
 ### Single Resource Admin
 

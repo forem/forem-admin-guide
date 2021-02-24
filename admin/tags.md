@@ -47,6 +47,8 @@ tags: shecoded
 <!-- Once your post is published, it will not appear on the /t/shecoded page until an admin approves it. This is an extra step to ensure there is no abuse on this important tag. -->
 ```
 
+Note that the template will also be accessible from the tag landing page by clicking on "write post" in the submission guidelines. The submission guidelines must be set for this to appear.
+
 **Wiki Body Markdown**: Displayed on tag page
 
 **BG + Text color hex**: Used as tag colors, ensure contrast meets a11y requirements

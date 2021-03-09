@@ -26,6 +26,10 @@ The number of users a person can follow in one day.
 
 The number of comments a user can create within 30 seconds.
 
+### Rate Limit Comment AntiSpam Creation
+
+The number of comments a new \(3 days or less\) can create within a 5 minute period.
+
 ### Rate Limit Listing Creation
 
 The number of listings a user can create in 1 minute.

@@ -58,10 +58,12 @@ Each report will display who submitted the report, the URL of the page they are 
 
 In addition to the report, we also display a history of email messages with the reporter and an area to directly email the reporter, offender, and affected. These people are defined as follows:
 
-* Reporter: person who submitted the report
+* Reporter: person who submitted the report \(note: this field is temporarily unavailable 3/9\)
 * Offender: person who may have been abusive on the platform
 * Affected: person who may have been affected by abuse
 
+Note that when Reporters send in a report they are automatically messaged a standard email thanking them for their report. \([Example](https://share.getcloudapp.com/6quQnZOn)\)  
+  
 Oftentimes, the Reporter and Affected are the same person but there are many scenarios where the Reporter is a third party witness to the bad behavior.
 
 The email form will pull in the reporter's email \(if applicable\) and provide a canned response for each type of email. You can customize this email however you'd like and click 'send email' when you'd like to send the email to each person.

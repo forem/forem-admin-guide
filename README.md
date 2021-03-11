@@ -33,5 +33,5 @@ To update this guide, please submit an issue or PR directly to the [Forem Admin 
 
 ## Technical Questions or Ideas?
 
-Please direct any questions or ideas for discussion to our meta Forem, [forem.dev](https://forem.dev)! Hellow master
+Please direct any questions or ideas for discussion to our meta Forem, [forem.dev](https://forem.dev)!
 

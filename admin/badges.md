@@ -50,5 +50,5 @@ Here's a comprehensive list of the badges' slugs to recreate:
 | `x` Year Badge | `x`-year-club | N\A |
 | `x` Streak Badge | `x`-week-streak | capped at 16 weeks, must be 2,4,8,16 |
 | Tag Badge | slug of the tag | associate the badge with a tag via /admin/badges |
-| Beloved Comment | beloved-comment | N\A |
+| Beloved Comment | beloved-comment | Automatically awards a badge if someone's comment reaches 25 likes |
 

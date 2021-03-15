@@ -46,7 +46,7 @@ Here's a comprehensive list of the badges' slugs to recreate:
 
 | Badge Name | Badge Slug | Note |
 | :--- | :--- | :--- |
-| DEV Contributor | dev-contributor | This is not generalized. |
+| DEV Contributor | dev-contributor | This is not generalized.  This relates strictly to the DEV Open source repo. |
 | `x` Year Badge | `x`-year-club | N\A |
 | `x` Streak Badge | `x`-week-streak | capped at 16 weeks, must be 2,4,8,16 |
 | Tag Badge | slug of the tag | associate the badge with a tag via /admin/badges |

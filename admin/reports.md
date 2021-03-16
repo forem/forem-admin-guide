@@ -58,7 +58,7 @@ Each report will display who submitted the report, the URL of the page they are 
 
 In addition to the report, we also display a history of email messages with the reporter and an area to directly email the reporter, offender, and affected. These people are defined as follows:
 
-* Reporter: person who submitted the report \(note: this field is temporarily unavailable 3/9\)
+* Reporter: person who submitted the report
 * Offender: person who may have been abusive on the platform
 * Affected: person who may have been affected by abuse
 

@@ -12,7 +12,7 @@ To edit a tag, click on the tag name.  You will be dropped into the `/admin/tags
 
 **Moderators**: add a user ID to add a tag moderator
 
-**Supported**: checking this box will add the tag to the homepage sidebar, and will allow it show in the `/onboarding` screens
+**Supported**: checking this box will make the tag searchable to authors who are writing posts or listings. Note: adding a tag mod to a tag will automatically make it supported.
 
 **Badge:** \(needs documentation\)
 

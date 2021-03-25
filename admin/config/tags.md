@@ -2,7 +2,7 @@
 
 ### Sidebar Tags
 
-Determines which tags are pinned to the homepage righthand sidebar.  Posts that are associated with a pinned tag will render below the tag, on the sidebar. High-quality posts will be rendered below the tag if only if they are _available_. If _no_ tags are added to this field, then _no_ tags will show in the homepage sidebar.
+Determines which tags are pinned to the homepage righthand sidebar.  Posts that are associated with a pinned tag will render below the tag, on the sidebar. High-quality posts will be rendered below the tag only if they are _available_. If _no_ tags are added to this field, then _no_ tags will show in the homepage sidebar.
 
 To use this feature, please enter **valid** tags that are **comma-separated**. For example: `tag1,tag2,tag3,tag4`
 

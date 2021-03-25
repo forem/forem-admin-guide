@@ -9,9 +9,10 @@ Badges appear on user profiles and are a great way to reward your community. Peo
 Click 'Create Badge' and you'll be led to a form with the following fields: 
 
 * Title: name of badge
-* Slug: the URL for the badge \(/badges/slug-of-badge\) so people can read abou the badge.
+* Slug: the URL for the badge \(/badges/slug-of-badge\) so people can read about the badge.
 * Description: the description that appears when a user is awarded the badge
 * Badge Image: upload an image of your badge
+* Credits Awarded: number of credits awarded to a user after they were awarded the badge 
 
 ### How To Award A Badge
 

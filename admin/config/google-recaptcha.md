@@ -21,7 +21,7 @@ Before submitting, it should look like this:
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 Once you've clicked submit, you should see your site and secret keys:  
 

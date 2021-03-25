@@ -1,12 +1,12 @@
 # Badges
 
-### Overview
+## Overview
 
 Badges appear on user profiles and are a great way to reward your community. People love collecting badges!
 
-### How To Create A Badge
+## How To Create A Badge
 
-Click 'Create Badge' and you'll be led to a form with the following fields: 
+Click 'Create Badge' and you'll be led to a form with the following fields:
 
 * Title: name of badge
 * Slug: the URL for the badge \(/badges/slug-of-badge\) so people can read about the badge.
@@ -14,18 +14,18 @@ Click 'Create Badge' and you'll be led to a form with the following fields:
 * Badge Image: upload an image of your badge
 * Credits Awarded: number of credits awarded to a user after they were awarded the badge 
 
-### How To Award A Badge
+## How To Award A Badge
 
-#### Manually
+### Manually
 
-Most badges are awarded manually via `/admin/badges` and `/admin/badge_achievements`  by clicking the 'award badge' button. To award a badge: 
+Most badges are awarded manually via `/admin/badges` and `/admin/badge_achievements` by clicking the 'award badge' button. To award a badge:
 
 * Badge: Select the name of badge to be awarded
 * Usernames: List the usernames of each user that should receive the badge in a comma-separated format.
 * Override Default Message: The default message is the badge description, but you can override that message by adding a custom one here.
 * Click 'Award Badges'
 
-#### Automatically
+### Automatically
 
 We have a default set of badges that get awarded automatically.
 
@@ -37,9 +37,9 @@ Examples types of badges from DEV:
 * **Top Post by Tag Badges**: various badges are awarded for the author with the most popular article in a specific tag
 * **Beloved Comment**: [this badge](https://dev.to/badge/beloved-comment) is awarded automatically for any comment that reaches a certain threshold of positive reactions
 
-### How do I set up an automatically-awarded badge?
+## How do I set up an automatically-awarded badge?
 
-The following badges can be awarded automatically.  To do so, be sure to set up a badge using a matching `slug`.
+The following badges can be awarded automatically. To do so, be sure to set up a badge using a matching `slug`.
 
 For the top post by tag badges, the Forem admin will need to create a badge and associate it with a tag.
 

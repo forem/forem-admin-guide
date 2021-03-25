@@ -8,8 +8,9 @@ To use this feature, please enter **valid** tags that are **comma-separated**. F
 
 Please note:
 
-* If you enter a tag that has no associated posts, then your Forem will contain an _empty_ tag \(with no posts rendering below it\) on the sidebar. We recommend only **using tags that have published posts**  associated with that tag in the sidebar.
+* If you enter a tag that has no associated posts, then your Forem will contain an _empty_ tag \(with no posts rendering below it\) on the sidebar. We recommend only **using tags that have published posts** associated with that tag in the sidebar.
 * Please be sure to **check the** **quality of the posts** associated with a tag before pinning it. We will show high-quality posts if they are available, and will default to lower-quality posts when nothing else is available.
+* Please be sure to **check whether or not a tag has been approved** before pinning the tag. A tag that has not yet been approved, will not display posts beneath it.
 
 
 

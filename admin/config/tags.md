@@ -2,7 +2,14 @@
 
 ### Sidebar Tags
 
-Determines which tags are shown on the homepage righthand sidebar. Please note that if no tags are added to this field, then no tags will show in the homepage sidebar.
+Determines which tags are pinned to the homepage righthand sidebar.  Posts that are associated with a pinned tag will render below the tag, on the sidebar. High-quality posts will be rendered below the tag if only if they are _available_. If _no_ tags are added to this field, then _no_ tags will show in the homepage sidebar.
 
-Valid tags, comma-separated, letters only.  IE `tag1,tag2,tag3,tag4`
+To use this feature, please enter **valid** tags that are **comma-separated**. For example: `tag1,tag2,tag3,tag4`
+
+Please note:
+
+* If you enter a tag that has no associated posts, then your Forem will contain an _empty_ tag \(with no posts rendering below it\) on the sidebar. We recommend only **using tags that have published posts**  associated with that tag in the sidebar.
+* Please be sure to **check the** **quality of the posts** associated with a tag before pinning it. We will show high-quality posts if they are available, and will default to lower-quality posts when nothing else is available.
+
+
 

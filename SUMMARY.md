@@ -2,8 +2,8 @@
 
 * [Forem Admin Guide](README.md)
 * [Quick Start Guide](quick-start-guide.md)
-* [FAQ](faq.md)
-* [Telemetry](telemetry.md)
+* [FAQ](faq/README.md)
+  * [Telemetry](faq/telemetry.md)
 * [Forem Gallery / Examples](forem-gallery-examples.md)
 * [Going Live](going-live/README.md)
   * [CNAME](going-live/cname.md)

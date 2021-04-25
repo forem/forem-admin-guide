@@ -53,7 +53,7 @@ You can change the emails your community members will contact for different need
 
 Changing the frequency of how often the "Digest" emails are sent.
 
-### \*\*\*\*[**Jobs**](jobs.md)\*\*\*\*
+### \*\*\*\*[**Jobs**]()\*\*\*\*
 
 A page to set the Jobs URL in order to find talent from within the community.
 

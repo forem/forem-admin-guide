@@ -21,7 +21,6 @@
   * [Credits](admin/config/credits.md)
   * [Emails](admin/config/emails.md)
   * [Email Digest](admin/config/email-digest.md)
-  * [Jobs](admin/config/jobs.md)
   * [Google Analytics](admin/config/google-analytics.md)
   * [Google reCAPTCHA](admin/config/google-recaptcha.md)
   * [Images](admin/config/images.md)

@@ -53,10 +53,6 @@ You can change the emails your community members will contact for different need
 
 Changing the frequency of how often the "Digest" emails are sent.
 
-### \*\*\*\*[**Jobs**]()\*\*\*\*
-
-A page to set the Jobs URL in order to find talent from within the community.
-
 ### \*\*\*\*[**Google Analytics Reporting API v4**](google-analytics.md)\*\*\*\*
 
 You're able to add your own Tracking ID to use Google Analytics on your forem.

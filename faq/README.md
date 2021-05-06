@@ -14,9 +14,9 @@ Head over to [Config &gt; Onboarding](../admin/config/onboarding.md) to change t
 
 ### How do I upload an image to get its direct image URL?
 
-You can go to `/admin/tools` in your Forem Admin page to upload an image.
+You can go to /admin/advanced/tools in your Forem Admin page to upload an image.
 
-![Image upload button on /admin/tools](../.gitbook/assets/screen-shot-2020-11-09-at-3.08.09-pm.png)
+![](../.gitbook/assets/screencapture-localhost-3000-admin-advanced-tools-2021-05-06-12_55_40.png)
 
 Your image URL will look something like this: `dev-to-uploads.s3.amazonaws.com/i/alk5808pwnt3j8sb8th3.png`
 

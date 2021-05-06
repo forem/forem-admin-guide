@@ -10,7 +10,7 @@ Display ads are images/text/links you can add to the upper right and lower left 
 
 ![Annotation of left and ride sidebar](../.gitbook/assets/image-2020-10-19-at-3.38.53-pm.png)
 
-On /admin/display\_ads you'll see these attributes from the display ads that have been created for your community:
+On /admin/customization/display\_ads you'll see these attributes from the display ads that have been created for your community:
 
 * Organization ID \#
 * Organization Name

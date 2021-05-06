@@ -6,14 +6,14 @@ description: Creating new pages on your Forem
 
 ### Overview
 
-The `/admin/pages` page allows you to:
+The `/admin/customization/pages` page allows you to:
 
 * Create a new page
 * View existing pages
 
 ### Creating a Page
 
-Visiting `/admin/pages/new` allows you to create a new page.
+Visiting `/admin/customization/pages/new` allows you to create a new page.
 
 * Title = title of the page
 * Slug = slug of the page

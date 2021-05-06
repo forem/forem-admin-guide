@@ -2,7 +2,7 @@
 
 ### Overview
 
-The reports page is an area for admins to monitor activity on the platform and respond to reports of abuse.
+The `/admin/moderation/reports` page is an area for admins to monitor activity on the platform and respond to reports of abuse.
 
 ### Suspicious Activity
 

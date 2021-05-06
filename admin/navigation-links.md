@@ -6,7 +6,7 @@ description: How to create the sidebar Navigation Links on your home page
 
 ### Overview
 
-The navigation links section is used to configure the sidebar that appears on your home page. By default you should see the following sidebar navigation items on your homepage:
+The `/admin/customization/navigation_links` page is used to configure the sidebar that appears on your home page. By default you should see the following sidebar navigation items on your homepage:
 
 | Name | URL |
 | :--- | :--- |

@@ -4,11 +4,11 @@ description: Information on using the Tags section
 
 # Tags
 
-The `/admin/tags` page displays all tags associated with posts on your Forem.  By default, they are sorted by "taggings count," or the number of times they've been used in a post.
+The `/admin/content_manager/tags` page displays all tags associated with posts on your Forem.  By default, they are sorted by "taggings count," or the number of times they've been used in a post.
 
 ### Editing a tag
 
-To edit a tag, click on the tag name.  You will be dropped into the `/admin/tags/{tag-id}/edit` page.
+To edit a tag, click on the tag name.  You will be dropped into the `/admin/content_manager/tags/{tag-id}/edit` page.
 
 **Moderators**: add a user ID to add a tag moderator
 

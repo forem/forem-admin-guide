@@ -10,7 +10,7 @@ Chat channels are group chats on Forem Connect, our messaging feature. Currently
 
 ### How to create a chat channel
 
-Navigate to /admin/chat\_channels and find the 'create channel' form. Fill out the following fields:
+Navigate to /admin/apps/chat\_channels and find the 'create channel' form. Fill out the following fields:
 
 * Name of chat channel
 * Usernames to add to the channel \(comma separated\). These users would be made moderators of the channel.
@@ -20,7 +20,7 @@ Once a channel is created, the users added to the channel will be moderators and
 
 ### How to add and remove moderators from a chat channel
 
-Navigate to /admin/chat\_channels and search for the channel you'd like to update. In order to add a channel moderator, enter the username in the 'add user' column and click 'add users'. To remove a channel moderator, enter the username in the  'remove user' column and click 'remove user'.
+Navigate to /admin/apps/chat\_channels and search for the channel you'd like to update. In order to add a channel moderator, enter the username in the 'add user' column and click 'add users'. To remove a channel moderator, enter the username in the  'remove user' column and click 'remove user'.
 
 ### How to invite members \(non-moderators\) to your chat channel
 

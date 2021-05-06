@@ -18,7 +18,7 @@ Click 'Create Badge' and you'll be led to a form with the following fields:
 
 ### Manually
 
-Most badges are awarded manually via `/admin/badges` and `/admin/badge_achievements` by clicking the 'award badge' button. To award a badge:
+Most badges are awarded manually via `/admin/content_manager/badges` and `/admin/content_manager/badge_achievements` by clicking the 'award badge' button. To award a badge:
 
 * Badge: Select the name of badge to be awarded
 * Usernames: List the usernames of each user that should receive the badge in a comma-separated format.

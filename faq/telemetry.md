@@ -7,10 +7,10 @@ Please find below a current exhaustive list of the endpoints that comprise our t
 
 | **URL endpoint** | **Description** | **Metric** |
 | :--- | :--- | :--- |
-| **/admin/config** | Admin panel configuration settings | Click count |
+| **/admin/customization/config** | Admin panel configuration settings | Click count |
 | **/admin/invitations** | Admin panel user invitations | Click count |
-| **/admin/tags** | Admin panel tag management | Click count |
-| **/admin/welcome** | Admin panel onboarding | Click count |
+| **/admin/content\_manager/tags** | Admin panel tag management | Click count |
+| **/admin/apps/welcome** | Admin panel onboarding | Click count |
 | [**https://forem.gitbook.io/forem-admin/guide**](https://forem.gitbook.io/forem-admin/guide) | Forem admin guide | Click count |
 | [**https://creators.forem.com**](https://creators.forem.com) **** | Forem creator support and discussion forum | Click count |
 

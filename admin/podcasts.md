@@ -25,7 +25,7 @@ In order to add a podcast, navigate to /pod and click "suggest a podcast". You w
 
 Click 'suggest' to enter the podcast into the system.
 
-Once a podcast is suggested, navigate to /admin/podcasts and take these steps:
+Once a podcast is suggested, navigate to /admin/content\_manager/podcasts and take these steps:
 
 * Find your podcast and click the title
 * Scroll to the bottom
@@ -53,7 +53,7 @@ If you notice that your podcast page isn't populated with the latest podcasts, t
 
 You can add multiple admins for a podcast. To do so, take these steps:
 
-* Navigate to /admin/podcasts
+* Navigate to /admin/content\_manager/podcasts
 * Click on your podcast
 * Scroll to "Manage Admins"
 * Add the User ID \# of the admin you'd like to add.
@@ -61,6 +61,6 @@ You can add multiple admins for a podcast. To do so, take these steps:
 
 ### Edit Podcast
 
-Once a podcast suggestion has been submitted, you can edit details in podcast by visiting /admin/podcasts.   
+Once a podcast suggestion has been submitted, you can edit details in podcast by visiting /admin/content\_manager/podcasts.   
 
 

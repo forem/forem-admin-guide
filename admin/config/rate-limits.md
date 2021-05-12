@@ -32,6 +32,10 @@ The number of comments a user can create within 30 seconds.
 
 The number of comments a new user can create within a 5 minute period.
 
+### Rate Limit Mention Creation
+
+The number of times a user can @-mention other uses in a comment or post.
+
 ### Rate Limit Listing Creation
 
 The number of listings a user can create in 1 minute.

@@ -45,6 +45,7 @@
   * [User Roles](admin/users/user-roles.md)
   * [Invite a New User](admin/users/inviting-a-new-user.md)
 * [Tags](admin/tags.md)
+* [Consumer Apps](admin/consumer-apps.md)
 
 ## Community Moderation
 
